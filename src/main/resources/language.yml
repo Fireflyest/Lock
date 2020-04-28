@@ -1,0 +1,9 @@
+Version: '1.0.0-SNAPSHOT'
+Title: '&6⚘&r'
+Help:
+  - '帮助指令'
+PlayerCommand: '&c该指令只能由玩家使用!'
+Reloading: '&f配置文件重载中...'
+Reloaded: '&f配置文件重载完成!'
+Owner: '&f容器主人&7: &3%player%'
+Friends: '&f共享名单&7: &3%friends%'
